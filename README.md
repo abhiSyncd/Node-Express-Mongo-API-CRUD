@@ -55,4 +55,8 @@
       d) Deleting Documents          : HTTP DELETE 
          - /deleteSingleEmployee/:id : Model.findByIdAndDelete() , Model.findOneAndDelete()
          - /deleteMultipleEmployees  : Model.deleteMany()
-         
+      
+    
+    Disclaimer : Rest End Points URLs are not SStnadard specific
+                 As i wanted to cover all possible scenarios 
+                 
