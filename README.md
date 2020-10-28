@@ -32,7 +32,7 @@
 
 
 
-## 4 - What this project covers - Advanced CRUD -  Defined in employeeRoutes.js: 
+## 4 - What this project covers | Defined in employeeRoutes.js: 
  
      Base URL : http://localhost:3000/api/employee
     
